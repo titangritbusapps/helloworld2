@@ -1,6 +1,6 @@
 ---
 topic: HTML Hello World
-languages:
+g;lfcvklnfr5gvt4rlanguages:
   - HTML
 products:
   - Azure App Service
